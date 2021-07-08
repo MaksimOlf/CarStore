@@ -814,7 +814,7 @@ body.ie ._ibg img {
 
 .swiper-container-initialized .swiper-slide img {
   max-height: 680px;
-  min-height: 210px;
+  min-height: 190px;
   -o-object-fit: cover;
      object-fit: cover;
   width: 100%;
